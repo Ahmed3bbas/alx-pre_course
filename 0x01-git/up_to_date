@@ -9,6 +9,7 @@ git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-pre_cours
 git add .
 git commit -m 'My first commit'
 git push 
+git pull
 
 # branch commands
 git branch "branch Name"
